@@ -1,0 +1,73 @@
+[env]
+TERM = "xterm-256color"
+
+[font]
+# normal = { family = "SauceCodePro Nerd Font Mono", style = "Regular" }
+normal = { family = "Iosevka Nerd Font Propo", style = "Regular" }
+# size = 20
+size = 12
+
+# [font.offset]
+# x = 0
+# y = 4
+
+[window.padding]
+y = 2 
+x = 2 
+
+[colors.primary]
+background = '#282c34'
+foreground = '#bbc2cf'
+
+[colors.cursor]
+text = 'CellBackground'
+cursor = '#c0caf5'
+
+[colors.selection]
+text = 'CellForeground'
+background = '#3e4451'
+
+[colors.normal]
+black   = '#1c1f24'
+red     = '#ff6c6b'
+green   = '#98be65'
+yellow  = '#da8548'
+blue    = '#51afef'
+magenta = '#c678dd'
+cyan    = '#5699af'
+white   = '#abb2bf'
+
+[colors.bright]
+black   = '#5b6268'
+red     = '#da8548'
+green   = '#4db5bd'
+yellow  = '#ecbe7b'
+blue    = '#3071db'
+magenta = '#a9a1e1'
+cyan    = '#46d9ff'
+white   = '#dfdfdf'
+
+# [colors.bright]
+# black   = "#444b6a"
+# blue    = "#7da6ff"
+# cyan    = "#0db9d7"
+# green   = "#b9f27c"
+# magenta = "#bb9af7"
+# red     = "#ff7a93"
+# white   = "#acb0d0"
+# yellow  = "#ff9e64"
+#
+#
+# [colors.primary]
+# background = "#1a1b26"
+# foreground = "#c0caf5"
+#
+# [colors.normal]
+# black   = "#15161e"
+# red     = "#f7768e"
+# green   = "#9ece6a"
+# yellow  = "#e0af68"
+# blue    = "#7aa2f7"
+# magenta = "#bb9af7"
+# cyan    = "#7dcfff"
+# white   = "#a9b1d6"
