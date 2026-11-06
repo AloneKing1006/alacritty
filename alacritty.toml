@@ -6,15 +6,19 @@ TERM = "xterm-256color"
 # normal = { family = "SauceCodePro Nerd Font Mono", style = "Regular" }
 normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
 # size = 20
-size = 10
+size = 12
 
 # [font.offset]
 # x = 0
 # y = 4
 
-# [window.padding]
-# y = 2 
-# x = 2 
+# [window]
+# opacity = 0.9
+# blur = false
+
+[window.padding]
+y = 4 
+x = 4 
 
 # [colors.primary]
 # background = '#282c34'
